@@ -1,2 +1,2 @@
-# tutturial for tech class
+# tutorial for tech class
 demo class      
